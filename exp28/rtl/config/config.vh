@@ -64,7 +64,7 @@
 
 
 // ZXUNO core ID string. Must be padded with zero bytes to the right (16 bytes total)
-  localparam COREID_STRING = {"EXP28-080923", 8'h00, 8'h00, 8'h00, 8'h00};
+  localparam COREID_STRING = {"EXP28-091024", 8'h00, 8'h00, 8'h00, 8'h00};
 
 // Power-on/FPGA PROG video configuration
   localparam

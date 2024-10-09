@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 091024
+- Alternative method of playing MIDI audio into core.
+
 ## Version 090923
 
 - Enabled core loading using the middle board. Implemented a second UART for easier comunication with the RP2040.
